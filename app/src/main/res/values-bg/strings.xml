@@ -74,7 +74,7 @@
     <string name="header_appearance">Външен вид</string>
     <string name="header_data_backup">Резервно копие</string>
 
-    <string name="preference_system">Системени</string>
+    <string name="preference_system">Според системата</string>
     <string name="height_cm">Височина (cm)</string>
     <string name="step_length">Дължина на крачка</string>
     <string name="weight_kg">Тегло (кг)</string>
